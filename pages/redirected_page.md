@@ -11,4 +11,4 @@ header:
 
 ## Submission sent
 
-Thank you for your interest in the Virtual Tumor Board, we will get back to you shortly. This page will automatically redirect to the home page in 15 seconds.
+Thank you for your interest in the VICC, we will get back to you shortly. This page will automatically redirect to the home page in 15 seconds.
